@@ -1,0 +1,6 @@
+[submodule "themes/hugo-theme-zyx"]
+	path = themes/hugo-theme-zyx
+	url = https://github.com/YuxinZhaozyx/hugo-theme-zyx.git
+[submodule "public"]
+	path = public
+	url = https://github.com/YuxinZhaozyx/YuxinZhaozyx.github.io.git
